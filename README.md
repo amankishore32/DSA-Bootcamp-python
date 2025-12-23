@@ -15,3 +15,11 @@ DSA using python in 2 months. From 0 -> Hero
 2. **Space Complexity (SC)** - How much space is required/consumed for input data set (N).<br>
    **_O(1)_** - No extra space is required. <br>
    **_O(N)_** - Same Extra space as the required as the input. i.e if input is 1GB we need 2GB space to execute.
+
+### Day2: Arrays & Memory Managment
+
+---
+
+1. **Concept** - Array are contiguous memory locations.
+2. **Trade-Off** - Access takes O(1) time while insertion/deletion at start are O(N) (need to shift elements)
+3. **Technique** - In-Place reversal, using 2 pointers approach to achive SC: O(1)
