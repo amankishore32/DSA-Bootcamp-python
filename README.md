@@ -23,3 +23,9 @@ DSA using python in 2 months. From 0 -> Hero
 1. **Concept** - Array are contiguous memory locations.
 2. **Trade-Off** - Access takes O(1) time while insertion/deletion at start are O(N) (need to shift elements)
 3. **Technique** - In-Place reversal, using 2 pointers approach to achive SC: O(1)
+
+### Day3: Two Pointers
+---
+Optimized 2 pointers approach for 2 Sum. From O(N^2) -> O(N).
+Start/End Pointers style.
+
